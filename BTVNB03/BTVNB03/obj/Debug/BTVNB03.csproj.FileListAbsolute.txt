@@ -1,0 +1,10 @@
+D:\C#\BTVNB03\BTVNB03\bin\Debug\BTVNB03.exe.config
+D:\C#\BTVNB03\BTVNB03\bin\Debug\BTVNB03.exe
+D:\C#\BTVNB03\BTVNB03\bin\Debug\BTVNB03.pdb
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.csproj.AssemblyReference.cache
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.Form1.resources
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.Properties.Resources.resources
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.csproj.GenerateResource.cache
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.csproj.CoreCompileInputs.cache
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.exe
+D:\C#\BTVNB03\BTVNB03\obj\Debug\BTVNB03.pdb
